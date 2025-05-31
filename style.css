@@ -125,3 +125,11 @@ body {
 #description {
     width: 15.5rem;
 }
+
+.normal {
+    color: green;
+}
+
+.attention {
+    color: red;
+}
